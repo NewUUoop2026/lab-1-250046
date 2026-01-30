@@ -8,6 +8,6 @@ void main() {
     double pi = 3.1415926535;
     double area = x*x*pi;
     System.out.println("The area is " + Math.round((area)));
-    System.out.println("The volue is " + Math.round((area*y)));
+    System.out.println("The volume is " + Math.round((area*y)));
     System.out.println("============================================");
 }
